@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER NVIDIA CORPORATION <digits@nvidia.com>
+MAINTAINER NVIDIA CORPORATION <digitsdev@nvidia.com>
 
 RUN apt-get update && apt-get install -y wget
 
